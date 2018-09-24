@@ -1,0 +1,10 @@
+venv/
+venv64/
+venv_python3/
+__pycache__/
+*.sqlite3
+.idea
+.env
+secrets.json
+todo.md
+.vscode
